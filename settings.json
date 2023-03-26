@@ -1,0 +1,6 @@
+{
+  "polygon_rpc": "https://polygon-rpc.com",
+  "claim_contract": "0x48fd1c538de3f358215b9251b83bd8f10a738a16",
+  "balancer_contract": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
+  "mint_receipt_contract": "0x52629961F71C1C2564C5aa22372CB1b9fa9EBA3E"
+}
